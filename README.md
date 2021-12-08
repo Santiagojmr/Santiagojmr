@@ -1,8 +1,5 @@
-### Hi there 👋
+<h1> Hi! My name is Santiago Molina. </h1>
 
-<!--
-**Santiagojmr/Santiagojmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Power BI
+ 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
